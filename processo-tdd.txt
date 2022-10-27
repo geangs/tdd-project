@@ -1,0 +1,2 @@
+Esse e o processo do tdd de criar testes, escrever um codigo minimo para que eles passem e depois continuar desenvolvendo,
+escrenvendo mais testes ou refantorando
